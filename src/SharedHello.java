@@ -13,7 +13,8 @@ public class SharedHello {
 
 
         // Skrevet af Asta
-
+        hej("Asta");
+        godDag("Asta");
     }
 
     // Her er et eksempel på en metode
